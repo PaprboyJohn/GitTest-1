@@ -21,5 +21,10 @@ namespace GitTest_1.Controllers
             return View();
         }
 
+        public ActionResult Delete()
+        {
+            return View();
+        }
+
     }
 }
